@@ -1,0 +1,2 @@
+# Label Lens (FathomStack). Served at https://saadbinghaffar.github.io/app-ads.txt
+google.com, pub-2685624187820858, DIRECT, f08c47fec0942fa0
